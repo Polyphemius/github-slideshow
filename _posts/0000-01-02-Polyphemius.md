@@ -2,7 +2,7 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-everybody do the flop
+everybody do the flop BOOM
 Use the left arrow to go back!
 
 
